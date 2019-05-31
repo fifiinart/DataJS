@@ -1,0 +1,23 @@
+{
+  "name": "datajs@fifiinart",
+  "version": "1.0.0",
+  "description": "A small database for node.js.",
+  "main": "dataJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fifiinart/DataJS.git"
+  },
+  "keywords": [
+    "database",
+    "nodejs"
+  ],
+  "author": "Fifi Art",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fifiinart/DataJS/issues"
+  },
+  "homepage": "https://github.com/fifiinart/DataJS#readme"
+}
