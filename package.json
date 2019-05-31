@@ -1,5 +1,5 @@
 {
-  "name": "datajs@fifiinart",
+  "name": "datajs-fifiinart",
   "version": "1.0.0",
   "description": "A small database for node.js.",
   "main": "dataJS.js",
